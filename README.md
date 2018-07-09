@@ -6,4 +6,4 @@
 
 我们将定期汇总经过交叉确认的关注度（主要参考 :+1: 数）较高的问题，与 Google 一起推动手机厂商在 ROM 更新中解决。
 
-[点击这里提交兼容性问题反馈](https://github.com/android-in-china/Compatibility/issues/new/choose)
+请在[此项目的 Issue Tracker](https://github.com/android-in-china/Compatibility/issues)中浏览和提交兼容性问题反馈。（提交新的 issue 前请搜索现有 issues，并在搜索的 issue 中回复补充，避免重复提交）
